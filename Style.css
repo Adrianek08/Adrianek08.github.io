@@ -1,5 +1,25 @@
-h1 {
-  color: green;
-  size: 30px;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+        text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1><b><i>„Moja Historia”</i></b></h1>
+    <i><h3>Zaczęło się to wszystko, kiedy miałem może 10 lat. W mojej podstawówce był jeden komputer, którego nigdy nie chciałem się rozstawać. Był stary, działający na Windows 95, z przestarzałą kartą graficzną i pamięcią, która ledwo wystarczała na najprostsze zadania. Ale dla mnie to było magiczne. Już wtedy poczułem, że komputer to nie tylko narzędzie do grania, ale coś, co mogłem rozgryźć, zrozumieć i co pozwoliło mi wyrażać siebie w sposób, jakiego wcześniej nie znałem. Pierwsze programy, które pisałem, to były naprawdę proste rzeczy: tworzyłem strony HTML z kolorowymi napisami, stawiałem pierwsze kroki w JavaScript i uczyłem się, jak działać z grafiką komputerową, nawet jeśli moje „projekty” wyglądały jak prymitywne rysunki.
+W gimnazjum zaczęło to nabierać kształtów. Miałem już własnego laptopa, który dostałem na urodziny, i to był moment, w którym naprawdę się zakochałem w programowaniu. Spędzałem godziny, ucząc się od zera, jak pisać skrypty, jak rozwiązywać logiczne zagadki za pomocą kodu. Oczywiście, moje pierwsze aplikacje były dość prymitywne: prosty kalkulator w C++ czy program do liczenia średniej arytmetycznej. Często znajdowałem się w sytuacjach, kiedy miałem problem i nie mogłem go rozwiązać – ale to, co mnie napędzało, to ta wewnętrzna potrzeba znalezienia rozwiązania. Czułem, że to jest coś, co chcę robić przez całe życie.
+Liceum to był czas, kiedy już nie było wątpliwości, w którą stronę pójdzie moje życie. Informatyka stała się moim ulubionym przedmiotem, ale nie tylko dlatego, że miałem łatwość w rozwiązywaniu zadań. Uwielbiałem ten przedmiot, bo pozwalał mi na wyrażenie siebie przez technologię. Wtedy zaczęły pojawiać się moje pierwsze prawdziwe projekty: strony internetowe, które tworzyłem dla znajomych, małe aplikacje, które usprawniały różne codzienne czynności. Zacząłem eksperymentować z językami programowania, a najwięcej frajdy dawały mi projekty z wykorzystaniem bazy danych i backendu, gdzie mogłem widzieć, jak kod „żyje” i komunikuje się z użytkownikami.
+Po maturze wybrałem studia informatyczne, bo czułem, że to jedyny kierunek, który pozwoli mi się rozwinąć i poznać programowanie na jeszcze głębszym poziomie. W trakcie studiów wszystko się potwierdziło – miałem możliwość pracy z nowymi technologiami, które wcześniej znałem tylko teoretycznie. Programowanie w Javie, Pythonie, C++ czy PHP stało się codziennością. Poznałem również tajniki inżynierii oprogramowania, zarządzania projektami, metodologii agile. Praca z zespołem, gdzie każdy miał swój kawałek odpowiedzialności, nauczyła mnie, jak ważna jest współpraca i jak projektować aplikacje, które są skalowalne, łatwe do utrzymania i dobrze przemyślane.
+Po ukończeniu studiów i zdobyciu kilku certyfikatów zdecydowałem się na pierwszą pracę jako junior developer. To był trudny czas – byłem pełen entuzjazmu, ale jednocześnie nieco zagubiony, bo wiedziałem, że to, co umiem, to tylko część tego, co będę musiał opanować. Mimo to szybko nauczyłem się, jak pracować w zespole, jak korzystać z narzędzi takich jak Git, Docker, jak optymalizować kod i, co najważniejsze, jak pisać kod, który będzie działał w prawdziwych warunkach – na żywo, w aplikacjach, które używają prawdziwi ludzie.
+Dzięki tej pracy zrozumiałem, jak bardzo ważne są tzw. „soft skills” – umiejętność komunikowania się z innymi członkami zespołu, dzielenie się wiedzą i rozwiązywanie problemów wspólnie. To sprawiło, że po kilku latach awansowałem na stanowisko mid-level developera. Zacząłem angażować się w większe projekty, pracować z klientami, pomagać młodszym kolegom i koleżankom z zespołu.
+Z czasem, w wieku 30 lat, zdobyłem doświadczenie w wielu technologiach, od tworzenia aplikacji webowych po prace z chmurą i microservices. Zaczynałem coraz bardziej angażować się w rozwój produktów, które miały realny wpływ na użytkowników. Praca stała się dla mnie czymś, co łączyło pasję z wyzwaniami zawodowymi. Czułem, że rozwijam się, ale też zaczynałem rozważać, co dalej – może własny startup? Może więcej projektów open source? Może zmiana specjalizacji na sztuczną inteligencję lub blockchain? Wiem, że każda decyzja, którą podejmę, będzie kolejnym krokiem w długiej, pełnej wyzwań drodze.
+Dziś, po 30 latach, wiem jedno – programowanie to dla mnie nie tylko zawód, ale sposób myślenia. Codziennie uczę się czegoś nowego i cieszę się, że mogę pracować w branży, która daje tak wiele możliwości. Wiem, że niezależnie od tego, co przyniesie przyszłość, najważniejsze to nie przestać się rozwijać, nie bać się wyzwań i nie zadowalać się przeciętnością. Bo świat technologii zmienia się każdego dnia, a ja chcę być częścią tej zmiany.</h3></i></p><br>
+</body>
+</html>
   
